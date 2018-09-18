@@ -1,0 +1,2 @@
+-- primer script
+-- creacion de base de datos

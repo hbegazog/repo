@@ -1,2 +1,6 @@
 -- primer script
 -- creacion de base de datos
+
+create table dim_clientes_wtf(
+hola varchar(255) null
+)
